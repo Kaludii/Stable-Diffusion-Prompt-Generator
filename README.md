@@ -4,7 +4,7 @@
 Created for [this](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) model trained by Gustavosta for Stable Diffusion to create a prompt from a few words. You can submit your own text or select from provided examples.
 
 # Web App
-Click [Here](https://kaludii-stable-diffusion-prompt-generator-app-z5du1i.streamlit.app/ "Here") To View This App Online!
+Click [Here](https://huggingface.co/spaces/Kaludi/Stable-Diffusion-Prompt-Generator_App "Here") To View This App Online!
 
 ![Image](https://github.com/Kaludii/Stable-Diffusion-Prompt-Generator/blob/main/images/Stable-Diff-Prompt-Gen.png?raw=true)
 
