@@ -6,7 +6,7 @@ Created for [this](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusio
 # Web App
 Click [Here](edit "Here") To View This App Online!
 
-![Image](Image)
+![Image](https://github.com/Kaludii/Stable-Diffusion-Prompt-Generator/blob/main/images/Stable-Diff-Prompt-Gen.png?raw=true)
 
 ## Features
 
