@@ -30,7 +30,7 @@ def generate(starting_text):
     if response_end != "":
         return response_end
 
-st.title("Stable Diffusion Prompt Creator")
+st.title("Stable Diffusion Prompt Generator")
 
 st.markdown("This is a web app for [this](https://huggingface.co/Gustavosta/MagicPrompt-Stable-Diffusion) model trained by Gustavosta for Stable Diffusion to create a Prompt from a few words. You can submit your own text or select from provided examples.")
 
